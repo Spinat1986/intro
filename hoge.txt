@@ -3,3 +3,4 @@ git　練習
 aiueo
 kakikukeko
 git status
+git diff
